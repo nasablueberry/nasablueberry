@@ -85,7 +85,7 @@
 
 ### **📬 Connect with Me**
 <div align="center">
-  <a href="https://www.instagram.com/nasablueberry/" target="_blank">
+  <a href="https://www.instagram.com/_hemel.ch_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
   <a href="mailto:hemeluddin1612602930@gmail.com" target="_blank">
