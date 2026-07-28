@@ -1,142 +1,180 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hemel%20Chowdhury&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20CSE%20%40%20BRAC%20University&descAlignY=52&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=200&section=header&text=HEMEL%20CHOWDHURY&fontSize=44&fontColor=FFE81F&animation=twinkling&fontAlignY=34&desc=A%20long%20time%20ago%20in%20a%20corner%20far,%20far%20away...&descAlignY=54&descSize=16)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Astrophysics+Nerd+%E2%9C%A8;Ethical+Hacking+Enthusiast+%F0%9F%94%90;Building+things+that+matter+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=FFE81F&center=true&vCenter=true&width=650&lines=C%3A%5CUsers%5Chemel%3E+establishing+uplink...;ACCESS+GRANTED+%E2%80%94+welcome%2C+traveler;CSE+Undergrad+%40+BRAC+University;AI+%7C+MERN+Stack+%7C+Ethical+Hacking;Do.+Or+do+not.+There+is+no+try." alt="typing"/>
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/nasablueberry?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/nasablueberry?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers"/>
-  </a>
-  <a href="https://github.com/nasablueberry?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/nasablueberry?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="stars"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nasablueberry&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<a href="https://github.com/nasablueberry?tab=followers">
+  <img src="https://custom-icon-badges.demolab.com/github/followers/nasablueberry?color=1a1a2e&labelColor=FFE81F&style=for-the-badge&logo=person-add&label=Padawans&logoColor=000000" alt="followers"/>
+</a>
+<a href="https://github.com/nasablueberry?tab=repositories&sort=stargazers">
+  <img src="https://custom-icon-badges.demolab.com/github/stars/nasablueberry?color=1a1a2e&labelColor=FFE81F&style=for-the-badge&logo=star&logoColor=000000&label=Stars" alt="stars"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=nasablueberry&label=SCANS&style=for-the-badge&color=FFE81F" alt="Profile Views"/>
+
 </div>
 
 ---
 
-### `whoami`
+```console
+Microsoft Windows [Version 10.0.22631.4169]
+(c) Corellian Engineering Corporation. All rights reserved.
 
-```javascript
-const hemel = {
-  name:     "Hemel Chowdhury",
-  role:     "Full-Stack Developer",
-  location: "Dhaka, Bangladesh",
-  education:"CSE @ BRAC University (10th trimester)",
-  stack:    ["React", "TypeScript", "Python", "Node.js", "Supabase"],
-  interests:["Web Dev", "AI/ML", "Ethical Hacking", "Astrophysics"],
-  currentlyBuilding: ["Nibble — AI desktop companion (Electron + Ollama)",
-                      "glowBD — beauty price comparison for Bangladesh"],
-  funFact:  "I tutor A-level Physics and still get amazed by black holes.",
-};
+C:\Users\hemel> whoami /full
+```
 
-const greet = () => {
-  const h = new Date().getHours();
-  const time = h < 12 ? "morning" : h < 17 ? "afternoon" : "evening";
-  console.log(`Good ${time}! I'm ${hemel.name}.`);
-  console.log(`${hemel.role} from ${hemel.location}.`);
-  console.log(`Building: ${hemel.currentlyBuilding[0]}`);
-};
+```python
+from galaxy import Republic, TheForce
 
-greet();
+
+class JediEngineer(Republic):
+    """Rank: Padawan  |  Affiliation: BRAC University Order"""
+
+    CODENAME = "nasablueberry"
+    HOMEWORLD = "Dhaka, Bangladesh"
+    LIGHTSABER = "blue"            # crystal: kyber (Python-forged)
+
+    holocrons = {
+        "training":  ["Artificial Intelligence", "Web Development"],
+        "forbidden": ["Ethical Hacking"],  # the dark side is a pathway
+        "arsenal":   ["Python", "C", "JavaScript", "React", "Node.js"],
+    }
+
+    def midi_chlorian_count(self) -> int:
+        return sum(len(v) for v in self.holocrons.values()) * 1_000
+
+    def greet(self) -> str:
+        return "May the source be with you."
+
+
+if __name__ == "__main__":
+    hemel = JediEngineer()
+    print(f"> {hemel.CODENAME} @ {hemel.HOMEWORLD}")
+    print(f"> midi-chlorians: {hemel.midi_chlorian_count()}")
+    print(f"> {hemel.greet()}")
+```
+
+```console
+> nasablueberry @ Dhaka, Bangladesh
+> midi-chlorians: 7000
+> May the source be with you.
+
+C:\Users\hemel> _
 ```
 
 ---
 
-### 🚀 Tech Stack
+## `> TRANSMISSION INTERCEPTED`
 
-#### 💻 Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css&theme=dark" alt="Languages"/>
-</div>
+> *"Code is like humor. When you have to explain it, it's bad."* — **Cory House**
+>
+> *"Your eyes can deceive you. Don't trust them."* — **Obi-Wan Kenobi**, on debugging by vibes
 
-#### 🛠️ Frameworks & Libraries
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,electron&theme=dark" alt="Frameworks"/>
-</div>
+---
 
-#### 🗄️ Databases & Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql,postgres&theme=dark" alt="Databases"/>
-</div>
+## `> ARSENAL // LOADOUT`
 
-#### ⚙️ Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,linux&theme=dark" alt="Tools"/>
+
+**Languages**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,c,js,html,css&theme=dark" alt="Languages"/>
+</a>
+
+**Frameworks & Libraries**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind&theme=dark" alt="Frameworks"/>
+</a>
+
+**Databases & Tools**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,linux&theme=dark" alt="Tools"/>
+</a>
+
 </div>
 
 ---
 
-### 🌟 Featured Projects
+## `> DEATH STAR PLANS // FEATURED MISSIONS`
+
+<!--
+  Swap REPO-NAME-1 / REPO-NAME-2 below for your two best repos and delete this comment.
+-->
 
 <p align="center">
-  <a href="https://github.com/nasablueberry/jabokoi">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nasablueberry&repo=jabokoi&theme=react&bg_color=0D1117&hide_border=true&icon_color=6C63FF&show_icons=true" alt="Jabo Koi?"/>
+  <a href="https://github.com/nasablueberry/REPO-NAME-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasablueberry&repo=REPO-NAME-1&bg_color=0D1117&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&show_owner=true" alt="project one"/>
   </a>
-  <a href="https://github.com/nasablueberry/nibble">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nasablueberry&repo=nibble&theme=react&bg_color=0D1117&hide_border=true&icon_color=6C63FF&show_icons=true" alt="Nibble"/>
+  <a href="https://github.com/nasablueberry/REPO-NAME-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasablueberry&repo=REPO-NAME-2&bg_color=0D1117&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&show_owner=true" alt="project two"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nasablueberry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nasablueberry&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117" alt="Top Langs"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nasablueberry&theme=algolia&hide_border=true&background=0D1117&stroke=0000&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="Streak"/>
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nasablueberry&theme=algolia&margin-w=10&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasablueberry&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasablueberry/nasablueberry/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasablueberry/nasablueberry/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nasablueberry/nasablueberry/output/github-snake-dark.svg" />
-</picture>
-
----
-
-### 📬 Connect with Me
+## `> IMPERIAL DATABANK // STATS`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hemel-ch0wdhury/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hemeluddin1612602930@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/amihemeltumike">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://iamhemel.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nasablueberry&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&custom_title=Combat%20Record" alt="GitHub Stats"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasablueberry&layout=compact&langs_count=6&bg_color=0D1117&title_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&custom_title=Weapon%20Proficiency" alt="Top Languages"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=nasablueberry&background=0D1117&border=FFE81F&stroke=FFE81F&ring=FFE81F&fire=FF2E2E&currStreakLabel=FFE81F&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=c9d1d9&dates=8b949e" alt="Streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nasablueberry&custom_title=Hyperspace%20Jump%20Log&bg_color=0D1117&color=FFE81F&line=FFE81F&point=FFFFFF&area_color=FFE81F&area=true&hide_border=false" alt="Activity Graph"/>
+
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+---
+
+## `> MEDALS OF THE ORDER`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nasablueberry&theme=darkhub&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=7" alt="Trophies"/>
+</p>
+
+---
+
+## `> SARLACC PIT // CONTRIBUTION SNAKE`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nasablueberry/nasablueberry/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</div>
+
+---
+
+## `> OPEN A COMMS CHANNEL`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hemel-ch0wdhury/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+</a>
+<a href="mailto:hemeluddin1612602930@gmail.com">
+  <img src="https://img.shields.io/badge/Holomail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
+</a>
+<a href="https://www.instagram.com/amihemeltumike">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
+</a>
+<a href="https://github.com/nasablueberry">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFE81F" height="35" alt="GitHub"/>
+</a>
+
+<br><br>
+
+```console
+C:\Users\hemel> shutdown /r /t 0 /c "May the Force be with you."
+```
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=140&section=footer&animation=twinkling)
