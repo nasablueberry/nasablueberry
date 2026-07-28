@@ -1,111 +1,142 @@
-<h1 align="center">Hey there! 👋 I'm Hemel Chowdhury</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hemel%20Chowdhury&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20CSE%20%40%20BRAC%20University&descAlignY=52&descSize=18)
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Astrophysics+Nerd+%E2%9C%A8;Ethical+Hacking+Enthusiast+%F0%9F%94%90;Building+things+that+matter+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/nasablueberry?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/nasablueberry?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers"/>
+  </a>
+  <a href="https://github.com/nasablueberry?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/nasablueberry?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nasablueberry&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</div>
+
+---
+
+### `whoami`
+
+```javascript
+const hemel = {
+  name:     "Hemel Chowdhury",
+  role:     "Full-Stack Developer",
+  location: "Dhaka, Bangladesh",
+  education:"CSE @ BRAC University (10th trimester)",
+  stack:    ["React", "TypeScript", "Python", "Node.js", "Supabase"],
+  interests:["Web Dev", "AI/ML", "Ethical Hacking", "Astrophysics"],
+  currentlyBuilding: ["Nibble — AI desktop companion (Electron + Ollama)",
+                      "glowBD — beauty price comparison for Bangladesh"],
+  funFact:  "I tutor A-level Physics and still get amazed by black holes.",
+};
+
+const greet = () => {
+  const h = new Date().getHours();
+  const time = h < 12 ? "morning" : h < 17 ? "afternoon" : "evening";
+  console.log(`Good ${time}! I'm ${hemel.name}.`);
+  console.log(`${hemel.role} from ${hemel.location}.`);
+  console.log(`Building: ${hemel.currentlyBuilding[0]}`);
+};
+
+greet();
+```
+
+---
+
+### 🚀 Tech Stack
+
+#### 💻 Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css&theme=dark" alt="Languages"/>
+</div>
+
+#### 🛠️ Frameworks & Libraries
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,electron&theme=dark" alt="Frameworks"/>
+</div>
+
+#### 🗄️ Databases & Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql,postgres&theme=dark" alt="Databases"/>
+</div>
+
+#### ⚙️ Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,linux&theme=dark" alt="Tools"/>
+</div>
+
+---
+
+### 🌟 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;CSE+Undergrad+at+BRAC+University;Tech+Enthusiast+%7C+AI+%7C+MERN+Stack;Creative+Problem+Solver" />
+  <a href="https://github.com/nasablueberry/jabokoi">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nasablueberry&repo=jabokoi&theme=react&bg_color=0D1117&hide_border=true&icon_color=6C63FF&show_icons=true" alt="Jabo Koi?"/>
+  </a>
+  <a href="https://github.com/nasablueberry/nibble">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nasablueberry&repo=nibble&theme=react&bg_color=0D1117&hide_border=true&icon_color=6C63FF&show_icons=true" alt="Nibble"/>
+  </a>
 </p>
 
-<h3 align="center">
- CSE Undergrad at BRAC University  
- Learning about AI, Web Development and Ethical Hacking  
- Always up for exciting discussions and learning new things!  
-</h3>
-
 ---
 
-### **🌟 Fun Quote**
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+### 📊 GitHub Stats
 
----
-
-### **📊 GitHub Stats & Activity**
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasablueberry&theme=tokyonight&hide_border=false" height="160" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nasablueberry&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nasablueberry&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&custom_title=Most%20Used%20Languages" height="160" alt="Top Languages" />
-</div>
-
----
-
-### **🏆 GitHub Profile Trophy**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nasablueberry&theme=dracula&margin-w=10&no-bg=true&no-frame=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nasablueberry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nasablueberry&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117" alt="Top Langs"/>
 </p>
 
----
-
-### **📈 GitHub Activity Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasablueberry&theme=tokyo-night" />
+  <img src="https://streak-stats.demolab.com?user=nasablueberry&theme=algolia&hide_border=true&background=0D1117&stroke=0000&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="Streak"/>
 </p>
 
 ---
 
-### **🚀 Tech Stack & Tools**
-#### **💻 Programming Languages**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-</div>
+### 🏆 Trophies
 
-#### **🛠️ Frameworks & Libraries**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-</div>
-
-#### **🗄️ Databases**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-</div>
-
-#### **⚙️ Tools & Version Control**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-</div>
-
----
-
-### **📬 Connect with Me**
-<div align="center">
-  <a href="https://www.instagram.com/_hemel.ch_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
-  </a>
-  <a href="mailto:hemeluddin1612602930@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/hemel-ch0wdhury/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/nasablueberry" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
-  </a>
-</div>
-
----
-### 🐍 Contribution Snake Animation
-![GitHub Snake](https://raw.githubusercontent.com/nasablueberry/nasablueberry/output/github-contribution-grid-snake.svg)
-
----
-
-### **👀 Visitor Counter**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nasablueberry&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views">
+  <img src="https://github-profile-trophy.vercel.app/?username=nasablueberry&theme=algolia&margin-w=10&no-bg=true&no-frame=true" />
 </p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasablueberry&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasablueberry/nasablueberry/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasablueberry/nasablueberry/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nasablueberry/nasablueberry/output/github-snake-dark.svg" />
+</picture>
+
+---
+
+### 📬 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hemel-ch0wdhury/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hemeluddin1612602930@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/_hemel.ch_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://iamhemel.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
