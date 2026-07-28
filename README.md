@@ -131,7 +131,7 @@ greet();
   <a href="mailto:hemeluddin1612602930@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/_hemel.ch_/">
+  <a href="https://www.instagram.com/_hemel.ch_/](https://www.instagram.com/amihemeltumike">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://iamhemel.vercel.app">
