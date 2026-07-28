@@ -108,7 +108,7 @@ C:\Users\hemel> _
 
 <p align="center">
   <a href="https://github.com/nasablueberry/REPO-NAME-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasablueberry&repo=REPO-NAME-1&bg_color=0D1117&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&show_owner=true" alt="[project one](https://alookdaaar.vercel.app/)"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasablueberry&repo=REPO-NAME-1&bg_color=0D1117&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&show_owner=true" alt="https://github.com/nasablueberry/alo"/>
   </a>
   <a href="https://github.com/nasablueberry/REPO-NAME-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasablueberry&repo=REPO-NAME-2&bg_color=0D1117&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&show_owner=true" alt="project two"/>
