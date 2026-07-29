@@ -8,23 +8,32 @@ on:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: nasablueberry
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+    permissions:
+      contents: write
 
-      - uses: crazy-max/ghaction-github-pages@v4
+    steps:
+      - name: Generate snake animations
+        uses: Platane/snk/svg-only@v3
         with:
-          target_branch: output
-          build_dir: dist
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#FFE81F&color_dots=#0D1117,#4a3f0a,#8a7412,#c4a51a,#FFE81F
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FFE81F&color_dots=#161b22,#4a3f0a,#8a7412,#c4a51a,#FFE81F
         env:
-          GITHUB_TOKEN: ${{ '{{ secrets.GITHUB_TOKEN }}' }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        run: |
+          cd dist
+          ls -la
+          git init -q
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -q -m "chore: regenerate contribution snake"
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
