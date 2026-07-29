@@ -227,10 +227,10 @@ gitGraph
 
 <p align="center">
   <a href="https://github.com/nasablueberry/alo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasablueberry&repo=alo&bg_color=0D1117&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&show_owner=true" alt="alo — Education Aid Disbursement System"/>
+    <img src="https://hemel-readme.vercel.app/api/pin/?username=nasablueberry&repo=alo&bg_color=0D1117&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&show_owner=true" alt="alo — Education Aid Disbursement System"/>
   </a>
   <a href="https://github.com/nasablueberry/dino-run-16bit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasablueberry&repo=dino-run-16bit&bg_color=0D1117&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&show_owner=true" alt="dino-run-16bit"/>
+    <img src="https://hemel-readme.vercel.app/api/pin/?username=nasablueberry&repo=dino-run-16bit&bg_color=0D1117&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&show_owner=true" alt="dino-run-16bit"/>
   </a>
 </p>
 
@@ -251,8 +251,8 @@ gitGraph
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nasablueberry&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&custom_title=Combat%20Record" alt="GitHub Stats"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasablueberry&layout=compact&langs_count=6&bg_color=0D1117&title_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&custom_title=Weapon%20Proficiency" alt="Top Languages"/>
+<img height="170em" src="https://hemel-readme.vercel.app/api?username=nasablueberry&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&custom_title=Combat%20Record" alt="GitHub Stats"/>
+<img height="170em" src="https://hemel-readme.vercel.app/api/top-langs?username=nasablueberry&layout=compact&langs_count=6&bg_color=0D1117&title_color=FFE81F&text_color=c9d1d9&border_color=FFE81F&custom_title=Weapon%20Proficiency" alt="Top Languages"/>
 
 <br>
 
