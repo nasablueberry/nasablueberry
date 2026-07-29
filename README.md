@@ -203,19 +203,19 @@ flowchart LR
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#0D1117','primaryTextColor':'#FFE81F','lineColor':'#FFE81F','fontFamily':'monospace','git0':'#FFE81F','git1':'#00E5FF','git2':'#FF2E2E','gitBranchLabel0':'#000000','gitBranchLabel1':'#000000','gitBranchLabel2':'#000000'}}}%%
 gitGraph
-    commit id: "Spawned"
+    commit id: "born-curious"
     commit id: "first-hello-world"
     branch university
     checkout university
     commit id: "enrolled-BRACU"
-    commit id: "survived-OOP"
+    commit id: "survived-C"
     branch the-force
     checkout the-force
     commit id: "learned-python"
-    commit id: "built-onething"
-    commit id: "then another"
+    commit id: "built-alo"
+    commit id: "dino-run-16bit"
     checkout university
-    merge the-force id: "still learning in rescursion"
+    merge the-force id: "skills-acquired"
     commit id: "now-here" type: HIGHLIGHT
 ```
 
@@ -248,12 +248,6 @@ gitGraph
 ---
 
 ## `> IMPERIAL DATABANK // STATS`
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasablueberry&theme=github_dark" alt="Profile Details"/>
-
-<br>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasablueberry&theme=github_dark" alt="Repos per Language"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasablueberry&theme=github_dark" alt="Most Commit Language"/>
 
 <div align="center">
 
@@ -270,8 +264,8 @@ gitGraph
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasablueberry&theme=github_dark&utcOffset=6" alt="Productive Time"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasablueberry&theme=github_dark" alt="Profile Summary"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasablueberry&theme=github_dark" alt="Most Commit Language"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasablueberry&theme=github_dark&utcOffset=6" alt="Productive Time"/>
 
 </div>
 
