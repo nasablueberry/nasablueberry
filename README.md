@@ -248,6 +248,12 @@ gitGraph
 ---
 
 ## `> IMPERIAL DATABANK // STATS`
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasablueberry&theme=github_dark" alt="Profile Details"/>
+
+<br>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasablueberry&theme=github_dark" alt="Repos per Language"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasablueberry&theme=github_dark" alt="Most Commit Language"/>
 
 <div align="center">
 
