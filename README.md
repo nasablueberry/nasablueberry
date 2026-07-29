@@ -203,19 +203,19 @@ flowchart LR
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#0D1117','primaryTextColor':'#FFE81F','lineColor':'#FFE81F','fontFamily':'monospace','git0':'#FFE81F','git1':'#00E5FF','git2':'#FF2E2E','gitBranchLabel0':'#000000','gitBranchLabel1':'#000000','gitBranchLabel2':'#000000'}}}%%
 gitGraph
-    commit id: "born-curious"
+    commit id: "Spawned"
     commit id: "first-hello-world"
     branch university
     checkout university
     commit id: "enrolled-BRACU"
-    commit id: "survived-C"
+    commit id: "survived-OOP"
     branch the-force
     checkout the-force
     commit id: "learned-python"
-    commit id: "built-alo"
-    commit id: "dino-run-16bit"
+    commit id: "built-onething"
+    commit id: "then another"
     checkout university
-    merge the-force id: "skills-acquired"
+    merge the-force id: "still learning in rescursion"
     commit id: "now-here" type: HIGHLIGHT
 ```
 
